@@ -1,3 +1,4 @@
+/* General Styles */
 body {
   font-family: 'Arial', sans-serif;
   margin: 0;
@@ -19,14 +20,17 @@ main {
   margin: 0 auto;
 }
 
+/* Centering Titles */
 h1 {
   font-size: 2em;
   margin: 0;
+  text-align: center; /* Center h1 title */
 }
 
 h2 {
   font-size: 1.5em;
   margin-bottom: 10px;
+  text-align: center; /* Center h2 titles */
 }
 
 .table-section, .form-section {
